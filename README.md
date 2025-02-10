@@ -10,17 +10,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&background=000000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Enthusiast;Tech+Explorer)](https://git.io/typing-svg)
 
 I'm a passionate developer with expertise in building scalable solutions and delightful user experiences. When I'm not coding, you'll find me experimenting with new tech stacks or contributing to open-source projects.
-
-- 🔭 **Currently working on:** [Project Alpha](#) (Modern E-commerce Platform)
-- 🌱 **Mastering:** TypeScript | Docker | AWS Cloud
-- 👨💻 **Tech Stack:** Python | JavaScript | Node.js | React | MongoDB
-- 💡 **Interested in:** Cloud Architecture | Microservices | DevOps
-- 🎯 **2024 Goals:** Contribute to 10+ OSS projects | Earn AWS Certification
-- ⚡ **Fun fact:** I can brew 7 types of coffee ☕ and identify memes from pixelated thumbnails
+- **Fun fact:** I can brew 7 types of coffee ☕ and identify memes from pixelated thumbnails
 
 ---
 
-## 🛠️ Tech Toolkit
+## Toolkit
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -40,7 +34,7 @@ I'm a passionate developer with expertise in building scalable solutions and del
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 Analytics
 
 <div align="center">
   <a href="https://github.com/Raman-kr1">
@@ -59,11 +53,11 @@ I'm a passionate developer with expertise in building scalable solutions and del
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raman-kr21/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/raman-kr1/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramankr267@gmail.com)
 
 ---
 
