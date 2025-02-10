@@ -5,7 +5,7 @@
   2. Place this file as README.md in the repo root
 -->
 
-# Hello World, I'm Raman! 👋
+# Hello World!
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&background=000000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Enthusiast;Tech+Explorer)](https://git.io/typing-svg)
 
