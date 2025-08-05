@@ -49,5 +49,4 @@ I'm a passionate developer with expertise in building scalable solutions and del
 
 [Raman-kr1](https://github.com/Raman-kr1)
 
----
-https://github.com/raman-kr1/raman-kr1/blob/output/github-contribution-grid-snake.svg
+
