@@ -5,48 +5,25 @@
   2. Place this file as README.md in the repo root
 -->
 
-# Hello World!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72E&background=000000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open-Source+Enthusiast;Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1&vCenter=true&multiline=true&repeat=false&width=435&lines=AI+%26+Backend;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 I'm a passionate developer with expertise in building scalable solutions and delightful user experiences. When I'm not coding, you'll find me experimenting with new tech stacks or contributing to open-source projects.
 
 
 ---
 
-## Toolkit
-
-*
-
----
-
-## 📈
 
 <div align="center">
   <a href="https://github.com/Raman-kr1">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raman-kr1&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raman-kr1&layout=compact&langs_count=8&theme=vision-friendly-dark"/>
+    
   </a>
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Raman-kr1&theme=vision-friendly-dark)
 
 ---
-
-## 🏆 Achievements
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Raman-kr1&theme=matrix&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+*
 ---
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raman-kr21/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/raman-kr1/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramankr267@gmail.com)
-
----
-
-[Raman-kr1](https://github.com/Raman-kr1)
-
+*
 
