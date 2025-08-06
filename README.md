@@ -1,29 +1,13 @@
-<!-- 
-  README Profile for GitHub user: Raman-kr1
-  To display this on your profile:
-  1. Create a repo named exactly "Raman-kr1"
-  2. Place this file as README.md in the repo root
--->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1&vCenter=true&multiline=true&repeat=false&width=435&lines=AI+%26+Backend;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-I'm a passionate developer with expertise in building scalable solutions and delightful user experiences. When I'm not coding, you'll find me experimenting with new tech stacks or contributing to open-source projects.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1&multiline=true&repeat=false&random=true&width=450&lines=AI+%26+Backend;Open+Source+Enthusiast)](https://git.io/typing-svg))
+---
+When I'm not building cool stuff,-- damaging my brain by playing chess
+<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1000&background=A2A2A200&multiline=true&repeat=false&width=200&height=120&lines=%E2%99%9C+%E2%99%9E+%E2%99%9D+%E2%99%9B+%E2%99%9A+%E2%99%9D+%E2%99%9E+%E2%99%9C;%E2%99%9F+%E2%99%9F+%E2%99%9F+%E2%99%9F+%E2%99%9F+%E2%99%9F+%E2%99%9F+%E2%99%9F;%E2%80%A2-+%E2%80%A2+-+%E2%80%A2+-+%E2%80%A2+-+%E2%80%A2+-+%E2%80%A2;%E2%99%99+%E2%99%99+%E2%99%99+%E2%99%99+%E2%99%99+%E2%99%99+%E2%99%99+%E2%99%99;%E2%99%96+%E2%99%98+%E2%99%97+%E2%99%95+%E2%99%94+%E2%99%97+%E2%99%98+%E2%99%96)](https://git.io/typing-svg)
 
 
 ---
+[![qwerty](https://github-readme-activity-graph.vercel.app/graph?username=Raman-kr1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<div align="center">
-  <a href="https://github.com/Raman-kr1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raman-kr1&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-    
-  </a>
-</div>
-
-
----
-*
----
-
-*
 
