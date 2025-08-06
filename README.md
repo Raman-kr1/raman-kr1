@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1&multiline=true&repeat=false&random=true&width=450&lines=AI+%26+Backend;Open+Source+Enthusiast)](https://git.io/typing-svg))
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1&multiline=true&repeat=false&random=true&width=450&lines=AI+%26+Backend;Open+Source+Enthusiast)](https://git.io/typing-svg)
 ---
 When I'm not building cool stuff,-- damaging my brain by playing chess
 <br/>
@@ -9,5 +9,11 @@ When I'm not building cool stuff,-- damaging my brain by playing chess
 
 ---
 [![qwerty](https://github-readme-activity-graph.vercel.app/graph?username=Raman-kr1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+*
+
+
+
 
 
