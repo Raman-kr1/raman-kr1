@@ -11,9 +11,12 @@ When I'm not building cool stuff,-- damaging my brain by playing chess
 [![qwerty](https://github-readme-activity-graph.vercel.app/graph?username=Raman-kr1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
-*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raman-kr1&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+---
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Raman-kr1&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+---
+![GitHub Stats](https://streak-stats.demolab.com?user=Raman-kr1&theme=prussian&hide_border=true)
 
 
 
