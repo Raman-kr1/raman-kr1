@@ -18,5 +18,9 @@ When I'm not building cool stuff,-- damaging my brain by playing chess
 ---
 ![GitHub Stats](https://streak-stats.demolab.com?user=Raman-kr1&theme=prussian&hide_border=true)
 
+---
+## Contact
+[![Email](https://img.shields.io/badge/Email-ramankr267%40gmail.com-blue)](mailto:ramankr267@gmail.com)
+
 
 
