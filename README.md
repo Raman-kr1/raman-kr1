@@ -25,7 +25,7 @@ When I'm not building cool stuff,-- damaging my brain by playing chess
 [![Email](https://img.shields.io/badge/Email-ramankr267%40gmail.com-blue)](mailto:ramankr267@gmail.com)
 
 ---
-![Snake animation](https://github.com/Raman-kr1/Raman-kr1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Raman-kr1/Raman-kr1/output/github-contribution-grid-snake.svg)
 
 
 
